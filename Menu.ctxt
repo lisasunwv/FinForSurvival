@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Menu\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=newFrame
+comment1.target=Menu(javax.swing.JFrame)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=f
+comment3.target=void\ initFrame(javax.swing.JFrame)
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5
